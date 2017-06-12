@@ -1,4 +1,4 @@
-# SimpleC2.0
+# SimpleC 2.0
 Increase of the habilities that C has to work with Some form of classes. The Preprocessor Power
 
 
@@ -39,6 +39,7 @@ int main() {
         a.add(o);
         
     }
+    
     printf("%s\n",a.get(100).parent);
     
 	Array(String*) b = Array();
